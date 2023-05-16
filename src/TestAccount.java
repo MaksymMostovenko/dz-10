@@ -3,7 +3,7 @@ public enum TestAccount {
     ACCOUNT_ID_001("accountId001", 50, "EUR"),
     ACCOUNT_ID_002("accountId002", 50, "USD"),
     ACCOUNT_ID_003("accountId003", 250, "HRV"),
-    ACCOUNT_ID_004("accountId004", 50, "USD");
+    ACCOUNT_ID_004("accountId004", 9999, "USD");
 
     private String id;
     private int amount;
